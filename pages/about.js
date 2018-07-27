@@ -11,6 +11,7 @@ export default () => (
           p {
             font-family: Arial;
             font-size: 30px;
+            color: #aaa;
           }
         `}
       </style>
